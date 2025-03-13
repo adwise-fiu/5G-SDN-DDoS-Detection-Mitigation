@@ -1,5 +1,10 @@
 # 5G-SDN-Flood-Detection-Mitigation
 
+# Reference
+This project is based on research presented in:
+- **[5G-SDN DDoS Detection and Mitigation](https://ieeexplore.ieee.org/abstract/document/10639648)**
+
+
 ## Overview
 This repository contains the implementation and setup instructions for detecting and mitigating **DDoS attacks in 5G networks** using **SDN-based approaches**. Two approaches are provided:
 
